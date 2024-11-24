@@ -17,10 +17,10 @@
  ###
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=deep-xu&style=flat-square&color=blue" alt="Profile views counter"/>
+    <img src="https://komarev.com/ghpvc/?username=Himanshu62727&style=flat-square&color=blue" alt="Profile views counter"/>
   </p>
 
-<p align="left">✨ Frontend Developer | OWASP Chapter | Tech Enthusiast</p>
+<p align="left">✨ Frontend Developer | Tech Enthusiast</p>
 
 ###
 
