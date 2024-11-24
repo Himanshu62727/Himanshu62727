@@ -25,7 +25,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deep-xu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu62727&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Himanshu62727&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -36,8 +36,7 @@
 ###
 
 <p align="left">I'm a passionate frontend web developer with expertise in building responsive and user-friendly websites using "HTML", "CSS", "JavaScript", and "React". I enjoy creating seamless user experiences and contributing to meaningful projects.  
-
-Currently, I’m a part of the **web development team in OWASP Chapter**, where I collaborate on improving web Designing and best practices in development.  </p>
+ </p>
 
 ###
 
