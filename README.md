@@ -20,7 +20,7 @@
     <img src="https://komarev.com/ghpvc/?username=Himanshu62727&style=flat-square&color=blue" alt="Profile views counter"/>
   </p>
 
-<p align="left" style="color: red;">✨ Frontend Developer | Tech Enthusiast</p>
+<p align="left">✨ Frontend Developer | Tech Enthusiast</p>
 
 ###
 
