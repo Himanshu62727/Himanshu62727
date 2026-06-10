@@ -2,7 +2,7 @@
 
 # <h1>Hi 👋, I'm Himanshu Singh</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+%26+Backend+Developer;Future+Cyber+Security+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Future+Security+Software+Engineer" />
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 
