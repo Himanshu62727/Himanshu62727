@@ -1,55 +1,101 @@
-<h2 align="left">🚀 About Me</h2>
+<div align="center">
 
-<p align="left">
-I'm a passionate Full Stack Developer with experience building modern web applications using the MERN Stack (MongoDB, Express.js, React.js, and Node.js). I enjoy creating responsive, user-friendly interfaces and developing secure, scalable backend systems. My interests include web development, problem-solving, and continuously learning new technologies to build impactful digital products.
-</p>
+# <h1>Hi 👋, I'm Himanshu Singh</h1>
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Frontend+%26+Backend+Developer;Future+Cyber+Security+Engineer" />
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML" />
-  <img width="12" />
+<img src="https://i.imgur.com/dBaSKWF.gif" height="2" width="100%">
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
 </div>
 
-<h2 align="left">⚡ Backend Skills</h2>
+## 🚀 About Me
 
-✅ REST APIs
-✅ JWT Authentication & Authorization
-✅ Password Hashing with bcrypt
-✅ MongoDB Database Design
-✅ CRUD Operations
-✅ Error Handling & Middleware
-✅ State Management with Redux Toolkit
-✅ API Integration using Axios
+💻 MERN Stack Developer
 
-<h2 align="left">🎯 Currently Learning</h2>
+🌱 Currently Learning Cyber Security
 
-🌱 Cyber Security Fundamentals
-🌱 Advanced Backend Development
-🌱 Cloud Computing
+🔥 Building Full Stack Web Applications
+
+🎯 Goal: Become a Security-Focused Software Engineer
+
+📍 India
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,nodejs,express,mongodb,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Himanshu62727&show_icons=true&theme=tokyonight" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Himanshu62727&layout=compact&theme=tokyonight" />
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Himanshu62727&theme=tokyonight" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Himanshu62727&theme=tokyo-night" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Himanshu62727&theme=tokyonight&row=1&column=7" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/Himanshu62727">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/himanshusingh2k">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your-email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 "Code. Learn. Build. Secure."
+
+</div>
